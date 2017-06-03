@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "videotest", "videotest\videotest.vcproj", "{95580E22-382E-42CD-B2BA-9836BDB4E398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95580E22-382E-42CD-B2BA-9836BDB4E398}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95580E22-382E-42CD-B2BA-9836BDB4E398}.Debug|Win32.Build.0 = Debug|Win32
+		{95580E22-382E-42CD-B2BA-9836BDB4E398}.Release|Win32.ActiveCfg = Release|Win32
+		{95580E22-382E-42CD-B2BA-9836BDB4E398}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
